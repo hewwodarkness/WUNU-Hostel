@@ -1,0 +1,35 @@
+html {
+    background-image: url(1.png);
+}
+body {
+    background-image: url(2.png);
+    height: 100vh;
+}
+
+.menu {
+    display: flex;
+    z-index: 2;
+}
+
+.menu-info {
+    display: flex;
+}
+
+.main {
+    display: flex;
+    z-index: 1;
+    font-family: Arial;
+    font-weight: bold;
+    color: azure;
+    width: 100%;
+}
+
+.main-bigtext {
+    font-size: 50px;
+}
+
+
+
+.img-rs {
+    height: 400px;
+}
