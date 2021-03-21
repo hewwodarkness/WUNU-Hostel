@@ -1,27 +1,44 @@
 html {
     background-image: url(1.png);
+    color: azure;
+    font-family: Arial;
 }
 body {
     background-image: url(2.png);
+    width: 100vw;
     height: 100vh;
+    margin: 0;
 }
 
 .menu {
     display: flex;
     z-index: 2;
+    margin: 0;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    border-bottom-width: 8px;
+    border-bottom-style: solid;
+    border-bottom-color:#2f7e9d;
 }
 
+.img-logo {
+    height: 60px;
+}
 .menu-info {
     display: flex;
+    position: absolute;
+    left: 50%
 }
 
 .main {
     display: flex;
     z-index: 1;
-    font-family: Arial;
     font-weight: bold;
-    color: azure;
     width: 100%;
+    margin: 0;
 }
 
 .main-bigtext {
@@ -31,5 +48,8 @@ body {
 
 
 .img-rs {
-    height: 400px;
+    height: 90vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }

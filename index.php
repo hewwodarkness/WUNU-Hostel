@@ -12,7 +12,7 @@
 <div class="menu">
 
     <div class="logo">
-
+        <img class="img-logo" src="4.png">
     </div>
 
     <div class="menu-info">
