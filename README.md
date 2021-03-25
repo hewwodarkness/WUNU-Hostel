@@ -1,2 +1,2 @@
 # WUNU-Hostel
-:)
+;)
