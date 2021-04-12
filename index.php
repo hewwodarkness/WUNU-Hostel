@@ -22,16 +22,16 @@
 
             <div class="nav-child">
                 <div class="nav-child-dot">
-                    gwegewrg
+                    Main page
                 </div>
                 <div class="nav-child-dot">
-                    gwegewrg
+                    Contact
                 </div>
                 <div class="nav-child-dot">
-                    gwegewrg
+                    KEKW
                 </div>
                 <div class="nav-child-dot">
-                    gwegewrg
+                    WUNU
                 </div>
             </div>
 
@@ -52,6 +52,7 @@
         
     </div>
 </div>
+
 <div class="ss">
     <div class="ee">
         <div class="row">
@@ -83,8 +84,78 @@
     </div>
 </div>
 
- 
+<div class="main-news">
+    <div class="main-news-text">
+        <h1>
+            Latest From News
+        </h1>
+        <p class="main-news-text-bottom">
+            Female divided bearing rule one called said Beginning set you living above saw seasons void created fruitful third years god.
+        </p>
+    </div>
+    <div class="main-news-posts">
+        <div class="main-news-posts-post">
+            <div class="main-news-posts-all">
+                <img class="main-news-posts-post-img" src="4.png">
+                <div class="main-news-posts-post-text">
+                    <h1>fwfwfw</h1>
+                    <div class="main-news-posts-post-text-date">
+                        <p>341243123341</p>
+                        <p>341312312</p>
+                    </div>
 
+                    <p>fqfqfq</p>
+                </div>
+            </div>
+            <div class="post-more">
+                <p>
+                    Read More...
+                </p>
+            </div>
+        </div>
+        <div class="main-news-posts-post">
+            <div class="main-news-posts-all">
+                <img class="main-news-posts-post-img" src="4.png">
+                <div class="main-news-posts-post-text">
+                    <h1>fwfwfw</h1>
+                    <div class="main-news-posts-post-text-date">
+                        <p>341243123341</p>
+                        <p>341312312</p>
+                    </div>
+
+                    <p>fqfqfq</p>
+                </div>
+            </div>
+            <div class="post-more">
+                <p>
+                    Read More...
+                </p>
+            </div>
+        </div>
+        <div class="main-news-posts-post">
+            <div class="main-news-posts-all">
+                <img class="main-news-posts-post-img" src="4.png">
+                <div class="main-news-posts-post-text">
+                    <h1>fwfwfw</h1>
+                    <div class="main-news-posts-post-text-date">
+                        <p>341243123341</p>
+                        <p>341312312</p>
+                    </div>
+
+                    <p>fqfqfq</p>
+                </div>
+            </div>
+            <div class="post-more">
+                <p>
+                    Read More...
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
 
 
 </body>
