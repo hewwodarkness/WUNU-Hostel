@@ -23,4 +23,4 @@ Features:
 
 
 # Diagram
-<img src="/Diagram/db.png" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="/Diagrams/bd.png" style="display: block; margin-left: auto; margin-right: auto;" />
