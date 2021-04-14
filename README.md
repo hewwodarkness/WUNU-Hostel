@@ -29,4 +29,4 @@ Features:
 8. Модераторы тега. (Если пользователь создал новый тег, он автоматически начинает быть модератором этого тега.) 
 
 # Diagram
-<img src="/Diagram/db.png" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="/Diagram/bd.png" style="display: block; margin-left: auto; margin-right: auto;" />
