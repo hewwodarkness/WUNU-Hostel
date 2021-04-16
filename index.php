@@ -16,7 +16,7 @@
 
         <div class="logo">
             <a href="http://iosu.wunu.edu.ua/">
-                <img class="img-logo" src="4.png">
+                <img class="img-logo" src="img/4.png">
             </a>
         </div>
 
@@ -60,7 +60,9 @@
         
     </div>
 </div>
+<div>
 
+</div>
 <div class="ss">
     <div class="ee">
         <div class="row">
@@ -104,7 +106,7 @@
     <div class="main-news-posts">
         <div class="main-news-posts-post">
             <div class="main-news-posts-all">
-                <img class="main-news-posts-post-img" src="4.png">
+                <img class="main-news-posts-post-img" src="img/4.png">
                 <div class="main-news-posts-post-text">
                     <h1>fwfwfw</h1>
                     <div class="main-news-posts-post-text-date">
@@ -123,7 +125,7 @@
         </div>
         <div class="main-news-posts-post">
             <div class="main-news-posts-all">
-                <img class="main-news-posts-post-img" src="4.png">
+                <img class="main-news-posts-post-img" src="img/4.png">
                 <div class="main-news-posts-post-text">
                     <h1>fwfwfw</h1>
                     <div class="main-news-posts-post-text-date">
@@ -142,7 +144,7 @@
         </div>
         <div class="main-news-posts-post">
             <div class="main-news-posts-all">
-                <img class="main-news-posts-post-img" src="4.png">
+                <img class="main-news-posts-post-img" src="img/4.png">
                 <div class="main-news-posts-post-text">
                     <h1>fwfwfw</h1>
                     <div class="main-news-posts-post-text-date">

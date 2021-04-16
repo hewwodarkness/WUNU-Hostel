@@ -1,0 +1,151 @@
+html, body{ background-color:rgb(214, 149, 149); }	
+
+body
+{ 
+	background-image: url('../images/background.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	width:100%;
+	background-size:cover;
+	height:100%;
+	min-height:1000px;
+	overflow:hidden;
+	font-family: 'quicksandlight', Helvetica, Arial;
+	color:#FFFFFF;
+	text-shadow: -1px -1px 4px rgba(0, 0, 0, .35);
+    filter: dropshadow(color=#000000, offx=1, offy=1);
+}
+
+
+/* hardware accelatator class */	
+	.trans3d
+	{
+		-webkit-transform-style: preserve-3d;
+		-webkit-transform: translate3d(0, 0, 0);
+		-moz-transform-style: preserve-3d;
+		-moz-transform: translate3d(0, 0, 0);
+		-ms-transform-style:preserve-3d;
+		-ms-transform: translate3d(0, 0, 0);
+		transform-style:preserve-3d;
+		transform: translate3d(0, 0, 0);
+
+		/*-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility:hidden;
+		backface-visibility:hidden;*/
+	}
+	
+	#contentContainer
+	{
+		position:absolute;
+		margin-left:-500px;
+		margin-top:-500px;
+		left:50%;
+		top:50%;
+		width:1000px;
+		height:1000px;
+	}
+	
+	#carouselContainer
+	{
+		position:absolute;
+		margin-left:-500px;
+		margin-top:-500px;
+		left:50%;
+		top:50%;
+		width:1000px;
+		height:1000px;
+	}
+	
+	.carouselItem
+	{
+		width:320px;
+		height:130px;
+		position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-160px;
+		margin-top:-90px;
+		visibility:hidden;
+	}
+	
+	.carouselItemInner
+	{
+		width:320px;
+		height:230px;
+		position:absolute;
+		background-color:rgba(255, 255, 255, .75);
+		border:10px solid rgba(255, 255, 255, .5);
+		color:aqua;
+		font-size:72px;
+		left:50%;
+		top:50%;
+		margin-left:-160px;
+		margin-top:-90px;
+		text-align:center;
+        object-fit:cover;
+
+		
+	}
+
+    .test1 {
+        width:320px;
+		height:130px;
+        object-fit:fill; }
+
+        .menu {
+            height: 85px;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        .menu-child {
+            display: flex;
+            position: relative;
+        }
+        
+        .logo {
+            margin-left: 50px;
+        }
+        
+        .img-logo {
+            height: 80px;
+        }
+        
+        .nav {
+            display: flex;
+            align-items: center;
+        }
+        
+        .nav-child {
+            position: absolute;
+            right: 0;
+            display: flex;
+            padding-right: 50px;
+        }
+        .nav-child-dot {
+            margin-left: 30px;
+        }
+        
+		.review {
+			margin-top: 600px;
+	
+			color: black;
+			width: 100%;
+
+}
+			
+		.review1 {
+			width: 800px;
+			display: flex;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.uu {
+			border: 4px solid blue; /* Параметры границы */
+			border-radius: 50%;
+		}
+		.review p{
+			
+			color: black;
+		}
