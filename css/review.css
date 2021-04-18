@@ -1,22 +1,25 @@
-html, body{ background-color:rgb(214, 149, 149); }	
+html {
+    color: black;
+    font-family: "Roboto",sans-serif;
+    overflow-x: hidden;
+    margin-right: calc(-1 * (100vw - 100%));
 
-body
-{ 
-	background-image: url('../images/background.jpg');
-	background-repeat: no-repeat;
-	background-position: top center;
-	width:100%;
-	background-size:cover;
-	height:100%;
-	min-height:1000px;
-	overflow:hidden;
-	font-family: 'quicksandlight', Helvetica, Arial;
-	color:#FFFFFF;
-	text-shadow: -1px -1px 4px rgba(0, 0, 0, .35);
-    filter: dropshadow(color=#000000, offx=1, offy=1);
 }
 
+body {
+    /* width: 100vw;
+    height: 100vh; */
+    margin: 0;
+}
 
+.reviewwholeblock {
+    background: url(../img/wunu2.jpg) center no-repeat;
+    opacity: 0.8; 
+    background-size: cover;
+    z-index: -1;
+    height: 700px;
+	display: flex;
+}
 /* hardware accelatator class */	
 	.trans3d
 	{
@@ -39,11 +42,11 @@ body
 	{
 		position:absolute;
 		margin-left:-500px;
-		margin-top:-500px;
+		margin-top:-400px;
 		left:50%;
 		top:50%;
 		width:1000px;
-		height:1000px;
+		height:500px;
 	}
 	
 	#carouselContainer
@@ -148,4 +151,25 @@ body
 		.review p{
 			
 			color: black;
+		}
+
+		.main-bottom {
+			width: 100%;
+			display: flex;
+		}
+		
+		.main-bottom-left {
+			width: 50%;
+			background-color: #17562b;
+			display: flex;
+			padding: 70px;
+			color: white;
+		}
+		
+		.main-bottom-right {
+			width: 50%;
+		}
+		
+		.single-block {
+			text-align: left;
 		}

@@ -1,0 +1,73 @@
+html {
+  color: black;
+  font-family: "Roboto",sans-serif;
+  font-weight: bold;
+  
+}
+
+.menu {
+  height: 85px;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu-child {
+  display: flex;
+  position: relative;
+}
+
+.logo {
+  margin-left: 50px;
+}
+
+.img-logo {
+  height: 80px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-child {
+  position: absolute;
+  right: 0;
+  display: flex;
+  padding-right: 50px;
+}
+
+.nav-child-dot {
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: flex;
+
+}
+
+.nav-child-dot a {
+  text-decoration: none!important;
+  cursor: pointer;
+  color: black;
+}
+
+.nav-child-dot a:hover {
+  color: rgb(125, 153, 112);
+  transition: 0.1s linear;
+}
+
+.user-menu-user {
+  display: flex;
+}
+.user-menu-pfp {
+  width: 40px;
+  border-radius: 20%;
+}
+
+.user-menu-settings {
+  width: 35px;
+  border-radius: 20%;
+  text-align: right;
+}
+.user-menu-name {
+  width: 50px;
+}
