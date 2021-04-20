@@ -5,8 +5,8 @@
 
 Supported browsers:
 1. Google Chrome
-2. Opera GX 
-3. Mozilla Firefox
+2. Opera GX ?
+3. Mozilla Firefox ?
 
 Features:
 1. Registration / Authorization / Session. (After registration will be automatic log in system).
